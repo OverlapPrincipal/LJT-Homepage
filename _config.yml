@@ -1,6 +1,3 @@
-title: "Junteng Liu"
-name: "Junteng Liu"
-description: "Junteng Liu's academic homepage"
-url: https://overlapprincipal.github.io
-baseurl: "/LJT-Homepage"
-repository: "OverlapPrincipal/LJT-Homepage"
+name                     : &name "Junteng Liu"
+description              : &description "Junteng Liu's academic homepage"
+excerpt_separator: "\n\n"
